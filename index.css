@@ -1,0 +1,30 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+    text-align: center;
+    background-image: url("https://i.etsystatic.com/10611926/r/il/e783d4/852836295/il_794xN.852836295_tvkw.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: goldenrod;
+}
+p{
+    font-size: large;
+    color: azure;
+}
+button{
+    background-color: goldenrod;
+    color: darkgreen;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 150px;
+    text-align: center;
+    align-self: center;
+}
+button:hover{
+    cursor: pointer;
+}
