@@ -1,7 +1,7 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
     text-align: center;
-    background-image:url('../images/table.png');
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
     background-size:cover;
 }
 
