@@ -18,7 +18,7 @@ function newCard(){
         cards.push(Math.floor(Math.random()*13)+1)
         update()
     }
-    else if(isAlive==false){
+    else if(isAlive==false && blackJack===false){
         document.getElementById("msg").textContent="You can't draw a new card. You lost!"
     }
     else{
