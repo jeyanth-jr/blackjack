@@ -36,3 +36,13 @@ ol{
     text-align: left;
     color: azure;
 }
+a{
+    margin: 10px;
+    color: white;
+}
+#welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
