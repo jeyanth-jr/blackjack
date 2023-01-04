@@ -18,8 +18,11 @@ function newCard(){
         cards.push(Math.floor(Math.random()*13)+1)
         update()
     }
+    else if(isAlive==false){
+        document.getElementById("msg").textContent="You can't draw a new card. You lost!"
+    }
     else{
-        document.getElementById("msg").textContent="You can't draw a new card"
+        document.getElementById("msg").textContent="It's a blackjack! You won!"
     }
     renderGame()
 }
