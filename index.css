@@ -28,3 +28,11 @@ button{
 button:hover{
     cursor: pointer;
 }
+h2{
+    color:goldenrod;
+    text-decoration: underline;
+}
+ol{
+    text-align: left;
+    color: azure;
+}
