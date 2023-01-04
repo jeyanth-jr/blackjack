@@ -1,7 +1,7 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
     text-align: center;
-    background-image:url("https://github.com/jeyanth-jr/blackjack/blob/main/images/table.png?raw=true");
+    background-image:url('../images/table.png');
     background-size:cover;
 }
 
